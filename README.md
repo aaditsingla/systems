@@ -48,10 +48,10 @@ git clone https://github.com/pkz074/user-management-script.git
 2. **Or download the script file directly** to any directory on your Ubuntu system.
 
 After downloading or cloning, **navigate to the directory** where the file is saved.
-Then, make sure the script is executable:
 
+Then, make sure the script is executable:
 chmod +x user-mng.sh
 
-Run the script using `sudo` (to get administrative privileges):
 
+Run the script using `sudo` (to get administrative privileges):
 sudo ./user-mng.sh
