@@ -57,4 +57,4 @@ text
 
 Run the script using `sudo` (to get administrative privileges):
 
-sudo ./user-mng.sh****
+sudo ./user-mng.sh
