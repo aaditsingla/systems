@@ -43,7 +43,7 @@ A comprehensive Bash script for Linux administrators to manage users and groups 
 You can install and use this script in two ways:
 
 1. **Clone from GitHub:**
-git clone https://github.com/pkz074/user-management-script.git
+git clone https://github.com/aaditsingla/systems
 
 2. **Or download the script file directly** to any directory on your Ubuntu system.
 
