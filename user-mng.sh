@@ -2,7 +2,6 @@
 #===============================================================================
 # User Account Management Script
 # Purpose: Comprehensive user and group management with robust error handling
-# Author: System Programming Course Project
 # Usage: sudo ./script.sh [--file users.csv] for batch mode
 #        sudo ./script.sh for interactive mode
 #===============================================================================
